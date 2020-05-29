@@ -1,4 +1,4 @@
-from aula_21_05_filtros import __version__
+from filtros_streamlit import __version__
 
 
 def test_version():
